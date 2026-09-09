@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "therundown-documentation": {
+      "type": "http",
+      "url": "https://docs.therundown.io/mcp"
+    }
+  }
+}
