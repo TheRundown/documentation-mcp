@@ -16,6 +16,6 @@ The documentation MCP can explain these rules and public contracts. It cannot
 return data prices. For scoped data access, see the separate local Data MCP
 repository and its customer-managed configuration.
 
-Keep retired affiliate 27 excluded. Do not put customer API keys in prompts,
-URLs, or metadata. Do not add private fields or non-public implementation
-details to this repository.
+Exclude retired Product API affiliate ID 27, even when a stale public catalog
+returns it. Do not put customer API keys in prompts, URLs, or metadata. Do not
+add private fields or non-public implementation details to this repository.
