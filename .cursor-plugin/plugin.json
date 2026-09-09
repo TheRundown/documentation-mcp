@@ -1,0 +1,24 @@
+{
+  "name": "therundown-documentation",
+  "displayName": "TheRundown Documentation",
+  "version": "1.0.0",
+  "description": "Search TheRundown's public sports data API documentation. This server is documentation-only and does not return live odds or scores or require a customer API key.",
+  "author": {
+    "name": "TheRundown"
+  },
+  "homepage": "https://docs.therundown.io/documentation-mcp",
+  "repository": "https://github.com/TheRundown/documentation-mcp",
+  "keywords": [
+    "therundown",
+    "sports-data",
+    "documentation",
+    "mcp"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "sports-data",
+    "documentation",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

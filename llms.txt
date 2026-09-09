@@ -1,0 +1,15 @@
+# TheRundown Documentation MCP
+
+Official public documentation MCP: https://docs.therundown.io/mcp
+
+Scope: search published TheRundown Product API documentation, schemas,
+authentication guidance, billing, and integration examples. It does not return
+live odds or scores. Do not send customer API keys to the documentation server.
+
+Documentation guide: https://docs.therundown.io/documentation-mcp
+OpenAPI: https://docs.therundown.io/openapi.yaml
+API documentation index: https://docs.therundown.io/llms.txt
+
+The separate official local Data MCP is https://github.com/TheRundown/data-mcp.
+It is a local stdio server with customer-managed Product API access; it is not
+a hosted data MCP endpoint.
